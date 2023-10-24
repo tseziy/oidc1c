@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+	<ConfigVersions>
+		<Metadata name="CommonModule.АвторизаторКлиент" id="b892e0c1-cee7-4756-824b-9b968db653b7" configVersion="82fc4ec5178ef7b2a053f0c8211cd44ca882d8d1"/>
+		<Metadata name="CommonModule.АвторизаторКлиент.Module" id="b892e0c1-cee7-4756-824b-9b968db653b7.0" configVersion="092d9e0377b44da1dbda1d648d2707aaa6572def"/>
+		<Metadata name="Configuration.Авторизатор" id="ba705d75-9e8a-4fb5-a608-f9ca0fda6f46" configVersion="971086f891c179763fd120dc57c78d0609801060"/>
+		<Metadata name="Configuration.Авторизатор.MainSectionCommandInterface" id="594d2f11-de6d-426f-88ab-0d47c45a53a2.9" configVersion="7adae239f14171fdd19bfdb797c692506939cc27"/>
+		<Metadata name="DataProcessor.HTTP" id="3d59ff61-5922-41ba-b848-bae689640468" configVersion="03bb386c33e992e13f53555d019b1503ef8be89c"/>
+		<Metadata name="DataProcessor.HTTP.ObjectModule" id="3d59ff61-5922-41ba-b848-bae689640468.0" configVersion="8a2a2c8e5c10fe2cdede79d336f62178d18cb93c"/>
+		<Metadata name="DataProcessor.Авторизатор" id="1017ab61-a0eb-4205-985b-a442d4621bf5" configVersion="ddf916a5c93e96758947029daabc446ad39aec47">
+			<Metadata name="DataProcessor.Авторизатор.Attribute.__РесурсКодУстройства" id="078afdd8-c2af-418a-9ef6-923fddef1509"/>
+			<Metadata name="DataProcessor.Авторизатор.Attribute.__РесурсТокен" id="76511698-4f68-4e27-8d36-16b4bb01eb78"/>
+			<Metadata name="DataProcessor.Авторизатор.Attribute.___Http" id="a381a556-a3f2-4d27-9de9-912ee7fa9173"/>
+			<Metadata name="DataProcessor.Авторизатор.Attribute.__Имя" id="e816b3f1-52f7-4cd3-a58e-54a0618bb1b6"/>
+		</Metadata>
+		<Metadata name="DataProcessor.Авторизатор.Form.КлиентАвторизации" id="91e29e3d-6bf2-42ad-85b2-8e84977e2ead" configVersion="caddea487617b162a19d59ccf6127a5e5cbcb130"/>
+		<Metadata name="DataProcessor.Авторизатор.Form.КлиентАвторизации.Form" id="91e29e3d-6bf2-42ad-85b2-8e84977e2ead.0" configVersion="7bccffd4686757ccfac35c8042940fdc2c0b7b01"/>
+		<Metadata name="DataProcessor.Авторизатор.ObjectModule" id="1017ab61-a0eb-4205-985b-a442d4621bf5.0" configVersion="b421c08e49501c13b934bda5a3bb954eeda9bd72"/>
+		<Metadata name="Language.Русский" id="8c5e0819-3e08-47d6-9278-cc49ee31f3df" configVersion="5a9194ca0373cd7732737608c8e5957db48b5502"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
