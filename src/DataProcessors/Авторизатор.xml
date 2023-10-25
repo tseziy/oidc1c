@@ -37,7 +37,7 @@
 							<v8:content>Имя</v8:content>
 						</v8:item>
 					</Synonym>
-					<Comment>МоеПриложениеАвторизатор</Comment>
+					<Comment>Авторизатор</Comment>
 					<Type>
 						<v8:Type>xs:string</v8:Type>
 						<v8:StringQualifiers>
